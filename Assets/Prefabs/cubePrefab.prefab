@@ -98,8 +98,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c35504c33a08fd249bf1cc7a3f0fc77e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  cubePrefab: {fileID: 1549717676526446060}
-  initialChance: 1
+  cubePrefab: {fileID: 3347426173438217662}
 --- !u!65 &8433311621955878536
 BoxCollider:
   m_ObjectHideFlags: 0
